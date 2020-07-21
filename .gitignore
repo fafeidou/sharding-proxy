@@ -1,0 +1,11 @@
+# Project exclude paths
+/sharding-proxy-backend/target/
+/sharding-proxy-bootstrap/target/
+/sharding-proxy-common/target/
+/sharding-proxy-frontend/sharding-proxy-frontend-core/target/
+/sharding-proxy-frontend/sharding-proxy-frontend-mysql/target/
+/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/target/
+/sharding-proxy-frontend/sharding-proxy-frontend-spi/target/
+/sharding-proxy-transport/sharding-proxy-transport-core/target/
+/sharding-proxy-transport/sharding-proxy-transport-mysql/target/
+/sharding-proxy-transport/sharding-proxy-transport-postgresql/target/

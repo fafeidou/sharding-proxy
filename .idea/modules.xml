@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy.iml" filepath="$PROJECT_DIR$/sharding-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-backend/sharding-proxy-backend.iml" filepath="$PROJECT_DIR$/sharding-proxy-backend/sharding-proxy-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-bootstrap/sharding-proxy-bootstrap.iml" filepath="$PROJECT_DIR$/sharding-proxy-bootstrap/sharding-proxy-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-common/sharding-proxy-common.iml" filepath="$PROJECT_DIR$/sharding-proxy-common/sharding-proxy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend.iml" filepath="$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-core/sharding-proxy-frontend-core.iml" filepath="$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-core/sharding-proxy-frontend-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-mysql/sharding-proxy-frontend-mysql.iml" filepath="$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-mysql/sharding-proxy-frontend-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/sharding-proxy-frontend-postgresql.iml" filepath="$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-postgresql/sharding-proxy-frontend-postgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-spi/sharding-proxy-frontend-spi.iml" filepath="$PROJECT_DIR$/sharding-proxy-frontend/sharding-proxy-frontend-spi/sharding-proxy-frontend-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport.iml" filepath="$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-core/sharding-proxy-transport-core.iml" filepath="$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-core/sharding-proxy-transport-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-mysql/sharding-proxy-transport-mysql.iml" filepath="$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-mysql/sharding-proxy-transport-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-postgresql/sharding-proxy-transport-postgresql.iml" filepath="$PROJECT_DIR$/sharding-proxy-transport/sharding-proxy-transport-postgresql/sharding-proxy-transport-postgresql.iml" />
+    </modules>
+  </component>
+</project>

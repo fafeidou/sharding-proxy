@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sharding-proxy-common" />
+        <module name="sharding-proxy-transport-core" />
+        <module name="sharding-proxy-frontend-core" />
+        <module name="sharding-proxy-transport-postgresql" />
+        <module name="sharding-proxy-frontend-spi" />
+        <module name="sharding-proxy-bootstrap" />
+        <module name="sharding-proxy-frontend-postgresql" />
+        <module name="sharding-proxy-frontend-mysql" />
+        <module name="sharding-proxy-transport-mysql" />
+        <module name="sharding-proxy-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sharding-proxy" target="1.8" />
+      <module name="sharding-proxy-backend" target="1.8" />
+      <module name="sharding-proxy-bootstrap" target="8" />
+      <module name="sharding-proxy-common" target="1.8" />
+      <module name="sharding-proxy-frontend" target="1.8" />
+      <module name="sharding-proxy-frontend-core" target="1.8" />
+      <module name="sharding-proxy-frontend-mysql" target="1.8" />
+      <module name="sharding-proxy-frontend-postgresql" target="1.8" />
+      <module name="sharding-proxy-frontend-spi" target="1.8" />
+      <module name="sharding-proxy-transport" target="1.8" />
+      <module name="sharding-proxy-transport-core" target="1.8" />
+      <module name="sharding-proxy-transport-mysql" target="1.8" />
+      <module name="sharding-proxy-transport-postgresql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
