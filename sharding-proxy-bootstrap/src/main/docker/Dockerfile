@@ -4,7 +4,7 @@ ENV TZ="Asia/Shanghai" HOME="/root" JVM_PARAMS=" " SPRING_PARAMS=" "
 
 WORKDIR ${HOME}
 
-ADD target/*.jar ${HOME}/server.jar
+ADD target/sharding-proxy-bootstrap-4.0.0.jar ${HOME}/server.jar
 
 EXPOSE 8080
 
